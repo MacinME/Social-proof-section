@@ -82,7 +82,7 @@ h1 {
   justify-content: center;
   flex-direction: column;
   gap: 1.3rem;
-  padding: 1.3rem 0;
+  padding: 1.3rem 0.5rem;
   border-radius: 0.5rem;
 }
 
