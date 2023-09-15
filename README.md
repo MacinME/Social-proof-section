@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Netlify]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/solution-using-css-grid-flexbox-and-media-queries-html-and-css-jFzsxXxgqo)
+- Live Site URL: [Netlify](https://social-proof-section-macin.netlify.app/)
 
 ## My process
 
